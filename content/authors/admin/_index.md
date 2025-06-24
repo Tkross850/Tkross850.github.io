@@ -140,13 +140,13 @@ languages:
 awards:
   - title: 中国商业联合会科学进步奖
     url: https://www.cgcc.org.cn/tzgg/2/53494.html
-    date: '2024-12-25'
+    Date_Start: '2024-12-25'
     summary: | 
       药用植物微量活性成分靶向分离关键技术及药理活性研究 
       木质纤维素微纳化和高值利用关键技术及产业化
   - title: 梁希林业科学技术奖
     url: https://m.thepaper.cn/baijiahao_28353699
-    date: '2024-08-08'
+    Date_Start: '2024-08-08'
     summary: |
       木质纤维素全质转化与高效高植利用关键技术
       生物转化研究 
