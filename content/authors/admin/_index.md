@@ -149,8 +149,8 @@ awards:
     date: '2024-08-08'
     awarder: edX
     icon: edx
-    summary: ''木质纤维素全质转化与高效高植利用关键技术
-      Learned: 生物转化研究
+    summary: 木质纤维素全质转化与高效高植利用关键技术
+    Learned: 生物转化研究
   -
 
 ---
