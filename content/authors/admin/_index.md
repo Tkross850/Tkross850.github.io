@@ -69,9 +69,9 @@ education:
     summary: | 
       GPA : 3.8
       Courses included:
-        -Advanced biochemistry ：91
-        -Medicinal chemistry ：90
-        -Advanced Organic Chemistry：91
+        - Advanced biochemistry: 91  # 改为半角冒号
+        - Medicinal chemistry: 90    # 改为半角冒号
+        - Advanced Organic Chemistry: 91  # 改为半角冒号
 work:
   - position: 研发部实习生
     company_name: 苏州特瑞药业有限公司
@@ -140,17 +140,17 @@ languages:
 awards:
   - title: 中国商业联合会科学进步奖
     url: https://www.cgcc.org.cn/tzgg/2/53494.html
-    Date_Start: '2024-12-25'
+    date_start: '2024-12-25'  # 注意小写
     summary: | 
       药用植物微量活性成分靶向分离关键技术及药理活性研究 
       木质纤维素微纳化和高值利用关键技术及产业化
+      
   - title: 梁希林业科学技术奖
     url: https://m.thepaper.cn/baijiahao_28353699
-    Date_Start: '2024-08-08'
+    date_start: '2024-08-08'  # 注意小写
     summary: |
       木质纤维素全质转化与高效高植利用关键技术
       生物转化研究 
-  -
 
 ---
 
