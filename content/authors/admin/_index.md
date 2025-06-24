@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 郭锐 & Isco
+title: 郭锐
 
 # Name pronunciation (optional)
 name_pronunciation: Rui Guo
 
 # Full name (for SEO)
-first_name: Rui
-last_name: Guo
+first_name: Guo
+last_name: Rui
 
 # Status emoji
 status:
@@ -52,8 +52,8 @@ interests:
   - Pathophysiology
 
 education:
-  - area: Drug targets
-    institution:  Medical college of Yangzhou University
+  - area: Medical college
+    institution: Yangzhou University
     date_start: 2023-07-01
     date_end: 2025-06-12
     summary: 
