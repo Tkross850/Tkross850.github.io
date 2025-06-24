@@ -120,7 +120,7 @@ skills:
       - name: Music
         description: Guitar
         percent: 75
-        icon: music
+        icon: cat
       - name: Photography
         description: 
         percent: 60
