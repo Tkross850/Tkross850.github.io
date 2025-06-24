@@ -77,8 +77,8 @@ work:
     company_name: 苏州特瑞药业有限公司
     company_url: ''
     company_logo: ''
-    date_start: 2024-06
-    date_end: 2024-10
+    date_start: 2024-06-01
+    date_end: 2024-10-30
     summary: |
       Responsibilities include:
       参与CRISPR-Cas9基因编辑项目，负责细胞培养
@@ -86,8 +86,8 @@ work:
     company_name: 沈阳市食品药品监督管理局
     company_url: ''
     company_logo: ''
-    date_start: 2021-10
-    date_end: 2021-12
+    date_start: 2021-10-10
+    date_end: 2021-12-31
     summary: |
       Responsibilities include:
        独立处理40多份食品抽检报告（涵盖微生物、添加剂、重金属等项目报告）
