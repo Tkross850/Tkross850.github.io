@@ -98,7 +98,7 @@ skills:
   - name: Technical Skills
     items:
       - name: Molecular experiments
-        description: ''RNA extraction, molecular cloning, Western Blot，Realtime-qPCR，ELISA
+        description: RNA extraction, molecular cloning, Western Blot，Realtime-qPCR，ELISA
         percent: 90
         icon: code-bracket
       - name: Cell experiments
@@ -106,7 +106,7 @@ skills:
         percent: 90
         icon: chart-bar
       - name: Animal experiments
-        description: '' H&E staining and immunohistochemistry; Responsible for in vitro model drug evaluation in mice
+        description: H&E staining and immunohistochemistry; Responsible for in vitro model drug evaluation in mice
         percent: 90
         icon: circle-stack
   - name: Hobbies
@@ -143,16 +143,14 @@ awards:
     date: '2024-12-25'
     awarder: Coursera
     icon: coursera
-    summary: 药用植物微量活性成分靶向分离关键技术及药理活性研究 
-             - 木质纤维素微纳化和高值利用关键技术及产业化
+    summary: 药用植物微量活性成分靶向分离关键技术及药理活性研究 木质纤维素微纳化和高值利用关键技术及产业化
   - title: 梁希林业科学技术奖
     url: https://m.thepaper.cn/baijiahao_28353699
     date: '2024-08-08'
     awarder: edX
     icon: edx
     summary: ''木质纤维素全质转化与高效高植利用关键技术
-      Learned:
-      - 生物转化研究
+      Learned: 生物转化研究
   -
 
 ---
