@@ -67,11 +67,11 @@ education:
     date_start: 2022-09-01
     date_end: 2025-06-12
     summary: | 
-             GPA : 3.8
-            Courses included:
-             Advanced biochemistry ：91
-             Medicinal chemistry : 90
-             Advanced Organic Chemistry：91
+      GPA : 3.8
+      Courses included:
+        -Advanced biochemistry ：91
+        -Medicinal chemistry : 90
+        -Advanced Organic Chemistry：91
 work:
   - position: 研发部实习生
     company_name: 苏州特瑞药业有限公司
