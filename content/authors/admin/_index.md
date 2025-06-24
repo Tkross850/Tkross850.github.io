@@ -3,11 +3,11 @@
 title: 郭锐
 
 # Name pronunciation (optional)
-name_pronunciation: Rui Guo
+name_pronunciation: Guo Rui
 
 # Full name (for SEO)
-first_name: Guo
-last_name: Rui
+first_name: Rui
+last_name: Guo
 
 # Status emoji
 status:
