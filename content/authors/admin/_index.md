@@ -114,15 +114,15 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Sport
-        description: ''Basketball swimming and fitness
+        description: Basketball swimming and fitness
         percent: 80
         icon: person-simple-walk
       - name: Music
-        description: ''Guitar
+        description: Guitar
         percent: 75
         icon: music
       - name: Photography
-        description: ''
+        description: 
         percent: 60
         icon: camera
 
