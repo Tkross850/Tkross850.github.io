@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: "Piperine targets the NACHT domain to disrupt NLRP3-NEK7interaction and alleviate inflammatory diseases"
 authors:
-- admin
-- Robert Ford
+- Rui Guo, Junyao Li, Yanchu Li, Haoyang Gao
+
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2025-06-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-07-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,16 +18,20 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "Journal of Advanced Research"
+publication_short: "JAR"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:  'Introduction: Excessive or aberrant activation of the NLRP3 inflammasome is implicated in the initiation and progression of various inflammatory diseases. However, to date no NLRP3 inflammasome inhibitors have been approved for clinical use.
+Objectives: This study aimed to investigate the molecular mechanisms by which piperine (PIP) regulated NLRP3 inflammasome activation and exerted anti-inflammatory effects in mice. Specifically, we examined whether PIP targets endogenous NLRP3 inflammasomes, its effect on the NLRP3–NEK7 interaction, and the key amino acid residues involved. In addition, the protective effects of PIP were evaluated in established mouse models of acute lung injury (ALI) and colitis.
+Methods: We identified NLRP3 as a potential target of PIP through COMET database and RNA sequencing. A classic NLRP3 inflammasome activation model was established in iBMDMs primed with lipopolysaccharide (LPS) and then activated with nigericin (Nig). Co-immunoprecipitation and molecular modelling techniques were used to examine the effect of PIP on the interaction between overexpressed NLRP3 and NEK7 proteins in vitro. Furthermore, two animal models were developed to investigate ALI induced by LPS and colitis induced by dextran sulfate sodium (DSS).
+Results: PIP specifically inhibited NLRP3 inflammasome activation without affecting NLRC4 or AIM2 inflammasome. Mechanically, PIP blocked NLRP3 protein oligomerization and ASC recruitment, and inhibited inflammasome assembly by interfering with NEK7-NLRP3 interaction. Molecular simulation confirmed that PIP binds noncovalently to NLRP3 at lysine 232 via a hydrogen bond, and mutating this residue to alanine eliminated its inhibitory effect on the NEK7-NLRP3 interaction. In vivo, PIP significantly alleviated LPS-induced ALI by reducing pulmonary edema and pro-inflammatory cytokines secretion. PIP also ameliorated DSS-induced colitis, accompanied by reduced NLRP3 expression in colonic tissue.
+Conclusion: These findings demonstrate that PIP exerted potent anti-inflammatory effects in vivo by specifically targeting the NLRP3 inflammasome, highlighting its potential as a therapeutic candidate for NLRP3-driven inflammatory diseases.'
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: 
 tags:
-- Source Themes
+- Drug targets
 featured: false
 
 # links:
