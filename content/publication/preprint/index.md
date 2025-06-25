@@ -1,29 +1,29 @@
 ---
-title: "An example preprint / working paper"
+title: "A comprehensive review on the main alkamides in Piper nigrum and anti-inflammatory properties of piperine"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+- Rui Guo Yiming Fang Junyao Li Haoyang Gao et al.
+date: "2025-04-04T00:00:00Z"
+doi: "10.1007/s11101-025-10127-4"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-05-16T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["review"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Phytochemistry Reviews"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Pepper (Piper nigrum Linn) is widely used as a seasoning in the culinary industry, and alkamides are its major active components. Among them, piperine (PIP) is a key natural alkamide known for its diverse pharmacological properties, including anti-inflammatory, antioxidant, anticonvulsant, neuroprotective, anticancer, antibacterial, and antiparasitic effects. In addition, PIP is widely utilized as a bioenhancer. Notably, it has garnered increasing attention for its potential as a natural phytochemical in the treatment of various inflammatory disorders. This review aims to summarize the extraction of alkamides as well as their role in inflammatory diseases by detailing its mechanisms of action and identifying potential anti-inflammatory targets. This review followed preferred reporting items for systematic reviews and meta-analyses (PRISMA) guidelines to ensure a systematic and comprehensive synthesis of data. This review critically summarized the regulatory effect of PIP on inflammation-related diseases involve the nervous system, cardiovascular system (CVS), gastrointestinal tract (GIT) and other areas and explained the pharmacological properties and mechanism. These findings consolidate the latest research on alkamides and provide a foundation for the potential development of PIP as a natural anti-inflammatory agent in both the food and pharmaceutical industries.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: .
 
 tags:
-- Large Language Models
+- Review
 
 featured: true
 

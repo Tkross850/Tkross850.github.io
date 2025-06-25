@@ -42,7 +42,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Participation in the project
       filters:
         folders:
           - publication
