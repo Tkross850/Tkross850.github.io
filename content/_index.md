@@ -35,8 +35,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the 
-        Please reach out to collaborate 😃
+        Use this area to talk to your task. I am a research scientist. I mainly study drug targets in the fields of molecular biology and pathological biology
+        Please contact us for cooperation 😃
     design:
       columns: '1'
   - block: collection
@@ -79,7 +79,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 4
       # Filter on criteria
       filters:
         author: ""
