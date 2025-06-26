@@ -1,7 +1,7 @@
 ---
-title: PyTorch
+title: 生物信息学
 date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+external_link: https://github.com/menghaowei/ngs_learning
 tags:
   - Hugo
   - Wowchemy

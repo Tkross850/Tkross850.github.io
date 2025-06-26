@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Sponsorship cooperation
 cms_exclude: true
 #url: talk
 
