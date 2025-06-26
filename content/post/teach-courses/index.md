@@ -12,15 +12,15 @@ tags:
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
-
-2023京东MALL家装节电竞主题日第二弹以“电竞+家装”重构消费场景，通过爆款直降、满额赠礼及职业战队互动引爆客流，结合沉浸式电竞体验区与智能家居黑科技联动，成功将年轻客群的游戏热情转化为家装消费力，打造沈阳潮购新主场。
-
 ## 活动视频
 
-<div class="video-container">
-  {{< video src="/media/videos/my_video.mp4" controls="yes" >}}
-</div>
+{{< video library="true" src="videos/my_video.mp4" controls="true" >}}
 
 <p class="text-center text-sm text-gray-500 mt-2">2023京东MALL家装节电竞主题日活动实况</p>
+
+## 活动详情
+2023京东MALL家装节电竞主题日第二弹以“电竞+家装”重构消费场景，通过爆款直降、满额赠礼及职业战队互动引爆客流，结合沉浸式电竞体验区与智能家居黑科技联动，成功将年轻客群的游戏热情转化为家装消费力，打造沈阳潮购新主场。
+
+
 
 ## Did you find this page helpful? Consider sharing it 🙌
