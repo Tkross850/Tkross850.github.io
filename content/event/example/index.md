@@ -1,31 +1,31 @@
 ---
-title: Example Talk
+title: 百事最强音
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: 2021百事校园最强音 唱响热爱气场全开
+event_url: https://zy.huanqiu.com/article/449BIC5oSCb
 
-location: Hugo Blox Builder HQ
+location: 沈阳大学
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 大东区望花南街21号
+  city: 沈阳市
+  region: 辽宁省
+  postcode: '110003'
+  country: China
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: 百事校园最强音城市赛【沈阳大学站】
+abstract: '百事校园最强音作为深耕高校11年的音乐IP（2013年启动），始终以“为年轻人提供舞台”为核心使命。2024年品牌主张升级为“渴望就可能（THIRSTY FOR MORE）”，沈阳大学站延续这一精神，鼓励学生突破自我，用音乐表达热爱。'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2013-06-01T13:00:00Z'
+date_end: '2025-06-10T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-06-01T00:00:00Z'
 
 authors:
-  - admin
+  - 郭锐
 
 tags: []
 
