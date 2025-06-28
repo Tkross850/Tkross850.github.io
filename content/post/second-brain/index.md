@@ -1,7 +1,7 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+title: 🧠 参与科研项目
+summary: Create my knowledge base 
+date: 2023-07-26
 authors:
   - admin
 tags:
@@ -10,112 +10,14 @@ tags:
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
-
-Create a personal knowledge base and share your knowledge with your peers.
-
-Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
-
-Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.
-
-Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.
-
-## Mindmaps
-
-Hugo Blox supports a Markdown extension for mindmaps.
-
-With this open format, can even edit your mindmaps in other popular tools such as Obsidian.
-
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
-
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-
-Anh here's a more advanced mindmap with formatting, code blocks, and math:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
+## 参与项目
+海南省科技专项基金（ZDYF2024XDNY177）、国家重点研发计划 （2023YFD1600200）、中国热带农业科学院国家热带农业科学中心科技创新团队 （CATASCXTD202404 ） ： 胡椒抗炎物质深度开发利用.
+国家自然科学基金 （U23A20516）、四川省区域创新合作项目（2023YFQ0042）、西藏自治区重点研发计划（XZ202301ZY0043G）：绿绒蒿抗肝纤维化研究。
+基于ASCT2靶点的积雪草皂苷定向挖掘及其抗PD作用机制研究（中韩高校合作项目）。
 
 ## Highlighting
-
-<mark>Highlight</mark> important text with `mark`:
-
-```html
-<mark>Highlighted text</mark>
-```
-
-## Callouts
-
-Use [callouts](https://docs.hugoblox.com/reference/markdown/#callouts) (aka _asides_, _hints_, or _alerts_) to draw attention to notes, tips, and warnings.
-
-By wrapping a paragraph in `{{%/* callout note */%}} ... {{%/* /callout */%}}`, it will render as an aside.
+在胡椒抗炎物质深度开发项目中主导胡椒活性成分胡椒碱的分子机制解析，通过构建急性炎症小鼠实验，结合分子互作（Co-IP/Pull-down）探究靶点、为抗炎新药开发提供靶点数据与先导化合物药效学证据。
+在绿绒蒿抗肝纤维化机制研究项目中负责建立CCl₄肝纤维化模型，利用转录组+代谢组学技术筛选绿绒蒿总生物碱（TAM）作用靶点；通过基因敲减/过表达实验证实药物靶向抑制肝星状细胞的ECM沉积，相关成果支撑专利设计与临床前申报。
 
 ```markdown
 {{%/* callout note */%}}
